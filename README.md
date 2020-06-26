@@ -1,3 +1,5 @@
+sample repo for https://levelup.gitconnected.com/generate-swagger-code-for-your-flutter-app-bd0c65aaa4a4 :-)
+
 # openapi
 Public APIs of the PetStore application landscape.
 
